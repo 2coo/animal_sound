@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints
+spectogram_data
+spectogram_data_splitted
+sound_data
+raw_spectogram
+models
+pg_binary
